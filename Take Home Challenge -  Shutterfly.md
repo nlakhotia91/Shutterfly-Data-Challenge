@@ -1,5 +1,5 @@
 ---
-
+typora-copy-images-to: ./cluster scores.png
 ---
 
 # Take Home Challenge -  Shutterfly
