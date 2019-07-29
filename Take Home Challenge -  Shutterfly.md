@@ -1,3 +1,7 @@
+---
+
+---
+
 # Take Home Challenge -  Shutterfly
 
 ## 1) Customer Segmentation
@@ -12,11 +16,11 @@ From ORDER and ONlLINE dataset, following features were derived at customer leve
 
 After data manipulation and data scaling, K means clustering was run on the data. To choose the number of optimal clusters, elbow graph was used (shown below).
 
-![silhouette_score](/Users/nikitalakhotia/Desktop/shutterfly- Take Home Challenge/silhouette_score.png)
+![silhouette_score](/Users/nikitalakhotia/Documents/Shutterfly-Data-Challenge/silhouette_score.png)
 
  The elbow graph graph suggests that for cluster number 3 or more, the silhouette score remains constant almost. Hence, I decided to go build 4 clusters on the data. Below is the cluster plot and cluster scores for each variable-
 
-![Cluster](/Users/nikitalakhotia/Desktop/shutterfly- Take Home Challenge/Cluster.png)
+![Cluster](/Users/nikitalakhotia/Documents/Shutterfly-Data-Challenge/Cluster.png)
 
 ![Screen Shot 2019-07-28 at 7.18.59 PM](/Users/nikitalakhotia/Desktop/Screen Shot 2019-07-28 at 7.18.59 PM.png)
 
