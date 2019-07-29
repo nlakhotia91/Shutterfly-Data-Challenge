@@ -22,7 +22,7 @@ After data manipulation and data scaling, K means clustering was run on the data
 
 ![Cluster](https://github.com/nlakhotia91/Shutterfly-Data-Challenge/blob/master/Cluster.png)
 
-![cluster scores](/Users/nikitalakhotia/Documents/Shutterfly-Data-Challenge/cluster scores.png)
+![cluster scores](https://github.com/nlakhotia91/Shutterfly-Data-Challenge/blob/master/cluster%20scores.png)
 
 The cluster scores were used to interpret the behaviour of customers it represents -
 
