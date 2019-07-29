@@ -16,7 +16,7 @@ From ORDER and ONlLINE dataset, following features were derived at customer leve
 
 After data manipulation and data scaling, K means clustering was run on the data. To choose the number of optimal clusters, elbow graph was used (shown below).
 
-![silhouette_score](/Users/nikitalakhotia/Documents/Shutterfly-Data-Challenge/silhouette_score.png)
+![silhouette_score](https://github.com/nlakhotia91/Shutterfly-Data-Challenge/blob/master/Cluster.png)
 
  The elbow graph graph suggests that for cluster number 3 or more, the silhouette score remains constant almost. Hence, I decided to go build 4 clusters on the data. Below is the cluster plot and cluster scores for each variable-
 
